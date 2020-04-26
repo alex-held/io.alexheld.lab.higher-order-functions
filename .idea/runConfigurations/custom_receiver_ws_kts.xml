@@ -1,0 +1,38 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="custom-receiver.ws.kts" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script" singleton="false" nameIsGenerated="true">
+    <module name="io.alexheld.higher-order-functions" />
+    <extension name="coverage" per_test_coverage_enabled="false" sample_coverage="false" />
+    <option name="filePath" value="$PROJECT_DIR$/src/custom-receiver.ws.kts" />
+    <option name="vmParameters" value="" />
+    <option name="alternativeJrePath" />
+    <option name="programParameters" value="" />
+    <option name="passParentEnvs" value="true" />
+    <option name="workingDirectory" value="" />
+    <option name="isAlternativeJrePathEnabled" value="false" />
+    <option name="VM_PARAMETERS" />
+    <option name="PROGRAM_PARAMETERS" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <option name="PASS_PARENT_ENVS" value="true" />
+    <option name="MAIN_CLASS_NAME" />
+    <option name="WORKING_DIRECTORY" />
+    <extension name="coverage" per_test_coverage_enabled="false" sample_coverage="false" />
+    <option name="filePath" value="$PROJECT_DIR$/src/custom-receiver.ws.kts" />
+    <option name="vmParameters" value="" />
+    <option name="alternativeJrePath" />
+    <option name="programParameters" value="" />
+    <option name="passParentEnvs" value="true" />
+    <option name="workingDirectory" value="" />
+    <option name="isAlternativeJrePathEnabled" value="false" />
+    <option name="VM_PARAMETERS" />
+    <option name="PROGRAM_PARAMETERS" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <option name="PASS_PARENT_ENVS" value="true" />
+    <option name="MAIN_CLASS_NAME" />
+    <option name="WORKING_DIRECTORY" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
